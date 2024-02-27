@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Mingguo He is presently a third-year Ph.D. student at the Gaoling School of Artificial Intelligence, [Renming University of China](https://www.ruc.edu.cn), under the guidance of Prof. [Zhewei Wei](weizhewei.com). Prior to this, he attained his B.E. degree in Software Engineering from the School of Computer Science, [Central South University](https://www.csu.edu.cn/) in June 2020.
+Mingguo He is presently a third-year Ph.D. student at the Gaoling School of Artificial Intelligence, [Renming University of China](https://www.ruc.edu.cn), under the guidance of Prof. [Zhewei Wei](https://weizhewei.com/). Prior to this, he attained his B.E. degree in Software Engineering from the School of Computer Science, [Central South University](https://www.csu.edu.cn/) in June 2020.
 
 
 Research Interests
