@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 {% include base_path %}
+
 2024
 ====
 1.  *Spectral Heterogeneous Graph Convolutions via Positive Noncommutative Polynomials.* [[Paper](https://arxiv.org/abs/2305.19872)][[Code](https://github.com/ivam-he/PSHGCN)] <br>
