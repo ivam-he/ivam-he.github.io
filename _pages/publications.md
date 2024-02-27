@@ -22,7 +22,7 @@ The 36th Conference on Neural Information Processing Systems <br>
 
 2021
 ====
-1.  *Approximate Graph Propagation.*  [[Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467243)][[Code](https://github.com/wanghzccls/AGP-Approximate_Graph_Propagation)] <be>
+1.  *Approximate Graph Propagation.*  [[Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467243)][[Code](https://github.com/wanghzccls/AGP-Approximate_Graph_Propagation)] <br>
 Hanzhi Wang, **Mingguo He**, Zhewei Wei, Sibo Wang, Ye Yuan, Xiaoyong Du, Ji-Rong Wen.<br>
 Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. <br>
 ***KDD 2021***.  
