@@ -12,9 +12,12 @@ Mingguo He is presently a third-year Ph.D. student at the Gaoling School of Arti
 
 Research Interests
 ---
-+ **Graph Neural Networks**: Spectral GNN, Heterogeneous GNN, Directed GNN.
++ Spectral Graph Neural Networks
++ Graph Transformer
++ Heterogeneous Graph Neural Networks
++ Directed Graph Neural Networks.
 
-Publications
+Publication
 ---
 
 + *Spectral Heterogeneous Graph Convolutions via Positive Noncommutative Polynomials.* [[Paper](https://arxiv.org/abs/2305.19872)][[Code](https://github.com/ivam-he/PSHGCN)] <br>
@@ -36,3 +39,8 @@ Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mini
 **Mingguo He**, Zhewei Wei, Zengfeng Huang, Hongteng Xu.<br>
 The 35th Conference on Neural Information Processing Systems. <br>
 ***NeurIPS 2021***.
+
+Preprint
+---
++ *PolyFormer: Scalable Graph Transformer via Polynomial Attention.* [[Paper]([https://arxiv.org/abs/2202.03580](https://openreview.net/forum?id=vUgeBN7F9l))]<br>
+Jiahong Ma, **Mingguo He**, Zhewei Wei.<br>
