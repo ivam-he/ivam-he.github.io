@@ -38,5 +38,5 @@ Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mini
 
 Preprint
 ---
-+ *PolyFormer: Scalable Graph Transformer via Polynomial Attention.* [[Paper]([https://arxiv.org/abs/2202.03580](https://openreview.net/forum?id=vUgeBN7F9l))]<br>
++ *PolyFormer: Scalable Graph Transformer via Polynomial Attention.* [[Paper](https://openreview.net/forum?id=vUgeBN7F9l)]<br>
 Jiahong Ma, **Mingguo He**, Zhewei Wei.<br>
