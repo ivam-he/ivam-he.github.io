@@ -30,15 +30,15 @@ Proceedings of the ACM Web Conference 2024 <br>
 The 36th Conference on Neural Information Processing Systems <br>
 ***NeurIPS 2022***. 
 
-+ *Approximate Graph Propagation.*  [[Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467243)][[Code](https://github.com/wanghzccls/AGP-Approximate_Graph_Propagation)] <br>
-Hanzhi Wang, **Mingguo He**, Zhewei Wei, Sibo Wang, Ye Yuan, Xiaoyong Du, Ji-Rong Wen.<br>
-Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. <br>
-***KDD 2021***.
-
 + *BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation.*  [[Paper](https://arxiv.org/abs/2106.10994)][[Code](https://github.com/ivam-he/BernNet)] <br>
 **Mingguo He**, Zhewei Wei, Zengfeng Huang, Hongteng Xu.<br>
 The 35th Conference on Neural Information Processing Systems. <br>
 ***NeurIPS 2021***.
+
++ *Approximate Graph Propagation.*  [[Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467243)][[Code](https://github.com/wanghzccls/AGP-Approximate_Graph_Propagation)] <br>
+Hanzhi Wang, **Mingguo He**, Zhewei Wei, Sibo Wang, Ye Yuan, Xiaoyong Du, Ji-Rong Wen.<br>
+Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. <br>
+***KDD 2021***.
 
 Preprint
 ---
