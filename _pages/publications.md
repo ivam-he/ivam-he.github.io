@@ -9,7 +9,7 @@ author_profile: true
 
 1.  *Spectral Heterogeneous Graph Convolutions via Positive Noncommutative Polynomials.* [[Paper](https://arxiv.org/abs/2305.19872)][[Code](https://github.com/ivam-he/PSHGCN)] <br>
 **Mingguo He**,Zhewei Wei, Shikun Feng, Zhengjie Huang, Weibin Li, Yu Sun, Dianhai Yu.<br>
-In Proceedings of the ACM Web Conference 2024. (**TheWebConf 2024**) <br>
+In Proceedings of the ACM Web Conference 2024. (**TheWebConf 2024**, **Oral Presentation**) <br>
 
 2.  *Convolutional Neural Networks on Graphs with Chebyshev Approximation, Revisited.* [[Paper](https://arxiv.org/abs/2202.03580)][[Code](https://github.com/ivam-he/ChebNetII)] <br>
 **Mingguo He**, Zhewei Wei, Ji-Rong Wen.<br>
