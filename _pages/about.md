@@ -19,7 +19,7 @@ Research Interests
 
 Publication
 ---
-+ *PolyFormer: Scalable Node-wise Filters via Polynomial Graph Transformer.* 
++ *PolyFormer: Scalable Node-wise Filters via Polynomial Graph Transformer.* <br>
 Jiahong Ma, **Mingguo He**, Zhewei Wei. (**Accepted by KDD 2024**) <br>
 
 + *Spectral Heterogeneous Graph Convolutions via Positive Noncommutative Polynomials.* [[Paper](https://arxiv.org/abs/2305.19872)][[Code](https://github.com/ivam-he/PSHGCN)] <br>
