@@ -19,6 +19,8 @@ Research Interests
 
 Publication
 ---
++ *PolyFormer: Scalable Node-wise Filters via Polynomial Graph Transformer.* 
+Jiahong Ma, **Mingguo He**, Zhewei Wei. (**Accepted by KDD 2024**) <br>
 
 + *Spectral Heterogeneous Graph Convolutions via Positive Noncommutative Polynomials.* [[Paper](https://arxiv.org/abs/2305.19872)][[Code](https://github.com/ivam-he/PSHGCN)] <br>
 **Mingguo He**,Zhewei Wei, Shikun Feng, Zhengjie Huang, Weibin Li, Yu Sun, Dianhai Yu.<br>
@@ -36,7 +38,4 @@ The 35th Conference on Neural Information Processing Systems. (**NeurIPS 2021**)
 Hanzhi Wang, **Mingguo He**, Zhewei Wei, Sibo Wang, Ye Yuan, Xiaoyong Du, Ji-Rong Wen.<br>
 Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. (**KDD 2021**) <br>
 
-Preprint
----
-+ *PolyFormer: Scalable Graph Transformer via Polynomial Attention.* [[Paper](https://openreview.net/forum?id=vUgeBN7F9l)]<br>
-Jiahong Ma, **Mingguo He**, Zhewei Wei.<br>
+
