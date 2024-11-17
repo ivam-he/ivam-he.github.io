@@ -19,8 +19,9 @@ Research Interests
 
 Publication
 ---
-+ *PolyFormer: Scalable Node-wise Filters via Polynomial Graph Transformer.* <br>
-Jiahong Ma, **Mingguo He**, Zhewei Wei. (**Accepted by KDD 2024**) <br>
++ *PolyFormer: Scalable Node-wise Filters via Polynomial Graph Transformer.* [[Paper](https://dl.acm.org/doi/10.1145/3637528.3671849)][[Code](https://github.com/air029/PolyFormer)] <br>
+Jiahong Ma, **Mingguo He**, Zhewei Wei. <br>
+In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. (**KDD 2024**) <br>
 
 + *Spectral Heterogeneous Graph Convolutions via Positive Noncommutative Polynomials.* [[Paper](https://arxiv.org/abs/2305.19872)][[Code](https://github.com/ivam-he/PSHGCN)] <br>
 **Mingguo He**,Zhewei Wei, Shikun Feng, Zhengjie Huang, Weibin Li, Yu Sun, Dianhai Yu.<br>
@@ -36,6 +37,6 @@ The 35th Conference on Neural Information Processing Systems. (**NeurIPS 2021**)
 
 + *Approximate Graph Propagation.*  [[Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467243)][[Code](https://github.com/wanghzccls/AGP-Approximate_Graph_Propagation)] <br>
 Hanzhi Wang, **Mingguo He**, Zhewei Wei, Sibo Wang, Ye Yuan, Xiaoyong Du, Ji-Rong Wen.<br>
-Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. (**KDD 2021**) <br>
+In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. (**KDD 2021**) <br>
 
 
