@@ -25,6 +25,9 @@ Research Interests
 + Graph Transformer
 + Heterogeneous Graph Neural Networks
 + Directed Graph Neural Networks.
++ AI4Science
+  
+**I am actively seeking job opportunities!** If you're interested, feel free to reach out via email. I am also open to presenting my research in related seminars—don't hesitate to invite me for a talk!
 
 Publication
 ---
@@ -47,6 +50,12 @@ The 35th Conference on Neural Information Processing Systems. (**NeurIPS 2021**)
 + *Approximate Graph Propagation.*  [[Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467243)][[Code](https://github.com/wanghzccls/AGP-Approximate_Graph_Propagation)] <br>
 Hanzhi Wang, **Mingguo He**, Zhewei Wei, Sibo Wang, Ye Yuan, Xiaoyong Du, Ji-Rong Wen.<br>
 In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. (**KDD 2021**) <be>
+
+Honors and Awards
+---
+- National Scholarship for Doctoral Students, 2024
+- Provincial Excellent Graduates, 2020
+- National Scholarship for Undergraduate Students, 2018
 
 Services
 ---
