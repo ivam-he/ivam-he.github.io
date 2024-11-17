@@ -7,6 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
+
 I am currently a final-year Ph.D. student at the Gaoling School of Artificial Intelligence, [Renmin University of China](https://www.ruc.edu.cn), under the supervision of Prof. [Zhewei Wei](https://weizhewei.com/). As of October 2024, I am also a visiting student at the Technical University of Munich, collaborating with Prof. [Stephan Günnemann](https://www.professoren.tum.de/guennemann-stephan). Prior to this, I earned my B.E. degree in Software Engineering from the School of Computer Science at [Central South University](https://www.csu.edu.cn/) in June 2020.
 
 
