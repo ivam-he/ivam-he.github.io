@@ -37,6 +37,19 @@ The 35th Conference on Neural Information Processing Systems. (**NeurIPS 2021**)
 
 + *Approximate Graph Propagation.*  [[Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467243)][[Code](https://github.com/wanghzccls/AGP-Approximate_Graph_Propagation)] <br>
 Hanzhi Wang, **Mingguo He**, Zhewei Wei, Sibo Wang, Ye Yuan, Xiaoyong Du, Ji-Rong Wen.<br>
-In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. (**KDD 2021**) <br>
+In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. (**KDD 2021**) <be>
+
+Services
+---
+I serve(d) as a program committee member/reviewer for:
+- **Conference on Neural Information Processing Systems** (NeurIPS 22/23/24)  
+- **International Conference on Machine Learning** (ICML 23/24)  
+- **International Conference on Learning Representations** (ICLR 24/25)  
+- **International World Wide Web Conference** (TheWebConf 24/25)  
+- **Learning on Graphs Conference** (LoG 24)  
+- **Association for the Advancement of Artificial Intelligence Conference** (AAAI 25)  
+- **Web Search and Data Mining Conference** (WSDM 23/24/25)  
+
+
 
 
