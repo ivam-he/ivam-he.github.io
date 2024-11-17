@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Mingguo He is presently a final-year Ph.D. student at the Gaoling School of Artificial Intelligence, [Renmin University of China](https://www.ruc.edu.cn), under the guidance of Prof. [Zhewei Wei](https://weizhewei.com/). Prior to this, he attained his B.E. degree in Software Engineering from the School of Computer Science, [Central South University](https://www.csu.edu.cn/) in June 2020.
+I am currently a final-year Ph.D. student at the Gaoling School of Artificial Intelligence, [Renmin University of China](https://www.ruc.edu.cn), under the supervision of Prof. [Zhewei Wei](https://weizhewei.com/). As of October 2024, I am also a visiting student at the Technical University of Munich, collaborating with Prof. [Stephan Günnemann](https://www.professoren.tum.de/guennemann-stephan). Prior to this, I earned my B.E. degree in Software Engineering from the School of Computer Science at [Central South University](https://www.csu.edu.cn/) in June 2020.
 
 
 Research Interests
