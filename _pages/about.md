@@ -51,7 +51,7 @@ The 35th Conference on Neural Information Processing Systems. (**NeurIPS 2021**)
 Hanzhi Wang, **Mingguo He**, Zhewei Wei, Sibo Wang, Ye Yuan, Xiaoyong Du, Ji-Rong Wen.<br>
 In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. (**KDD 2021**) <be>
 
-Honors and Awards
+Awards
 ---
 - National Scholarship for Doctoral Students, 2024
 - Provincial Excellent Graduates, 2020
