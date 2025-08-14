@@ -108,13 +108,14 @@ In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data M
 # 💼 Services
 ---
 I serve(d) as a program committee member/reviewer for:
-- Conference on Neural Information Processing Systems (**NeurIPS** 22/23/24)  
-- International Conference on Machine Learning (**ICML** 23/24)  
+- Conference on Neural Information Processing Systems (**NeurIPS** 22/23/24/25)  
+- International Conference on Machine Learning (**ICML** 23/24/25)  
 - International Conference on Learning Representations (**ICLR** 24/25)  
 - International World Wide Web Conference (**TheWebConf** 24/25)  
-- Learning on Graphs Conference (**LoG** 24)  
-- Association for the Advancement of Artificial Intelligence Conference (**AAAI** 25)  
-- Web Search and Data Mining Conference (**WSDM** 23/24/25)  
+- Learning on Graphs Conference (**LoG** 24/25)  
+- Association for the Advancement of Artificial Intelligence Conference (**AAAI** 25/26)  
+- Web Search and Data Mining Conference (**WSDM** 23/24/25)
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPMAI** journal)
 
 # 🌍 Visitor Map
 
