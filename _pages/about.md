@@ -118,5 +118,13 @@ I serve(d) as a program committee member/reviewer for:
 
 # 🌍 Visitor Map
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=1838a3&w=400&t=tt&d=opzTPaTNgNUrWvD_vjzXkFUMNo05ptM6XPnZfkpH53E&co=ffffff&cmo=af1616&cmn=1fba1f&ct=000000'></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=al5-StCZGk-bhNyW49GC_ZBvxtldpLuAOcl3O3hn-sE&cl=ffffff&w=a"></script>
 
+<footer class="site-footer">
+  <p>&copy; Aug 2025 Mingguo He. All rights reserved.</p>
+  <p>
+    Template adapted from
+    <a href="https://github.com/RayeRen/acad-homepage.github.io"
+       target="_blank" rel="noopener">Yi Ren</a>.
+  </p>
+</footer>
