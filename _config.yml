@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Mingguo He"
-  avatar           : "hmg_avater.jpg"
+  avatar           : "images/hmg_avater.jpg"
   bio              : "National University of Singapore (NUS)"
   location         : "Singapore"
   employer         :
