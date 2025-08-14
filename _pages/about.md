@@ -72,8 +72,8 @@ My research focuses on **Spectral Graph Neural Networks (GNNs)**, particularly l
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05*: We are excited to introduce a new benchmark for Directed Graph Link Prediction, [DirLinkBench](https://arxiv.org/abs/2502.05724).
+- *2024.01*: Our paper was accepted at TheWebConf 2024 and selected for oral presentation.
 
 # 📝 Publications 
 
@@ -83,11 +83,11 @@ In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery & Data M
 
 + *Spectral Heterogeneous Graph Convolutions via Positive Noncommutative Polynomials.* [[Paper](https://arxiv.org/abs/2305.19872)][[Code](https://github.com/ivam-he/PSHGCN)] <br>
 **Mingguo He**,Zhewei Wei, Shikun Feng, Zhengjie Huang, Weibin Li, Yu Sun, Dianhai Yu.<br>
-In Proceedings of the ACM Web Conference 2024. (**TheWebConf 2024**, **Oral Presentation**) <br>
+In Proceedings of the ACM Web Conference 2024. (**TheWebConf 2024**, **Oral 9.4%**) <br>
 
 +  *Convolutional Neural Networks on Graphs with Chebyshev Approximation, Revisited.* [[Paper](https://arxiv.org/abs/2202.03580)][[Code](https://github.com/ivam-he/ChebNetII)] <br>
 **Mingguo He**, Zhewei Wei, Ji-Rong Wen.<br>
-In the 36th Conference on Neural Information Processing Systems. (**NeurIPS 2022**, **Oral Presentation**) <br>
+In the 36th Conference on Neural Information Processing Systems. (**NeurIPS 2022**, **Oral 1.8%**) <br>
 
 +  *BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation.*  [[Paper](https://arxiv.org/abs/2106.10994)][[Code](https://github.com/ivam-he/BernNet)] <br>
 **Mingguo He**, Zhewei Wei, Zengfeng Huang, Hongteng Xu.<br>
