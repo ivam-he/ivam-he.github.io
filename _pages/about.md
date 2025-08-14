@@ -115,7 +115,7 @@ I serve(d) as a program committee member/reviewer for:
 - Learning on Graphs Conference (**LoG** 24/25)  
 - Association for the Advancement of Artificial Intelligence Conference (**AAAI** 25/26)  
 - Web Search and Data Mining Conference (**WSDM** 23/24/25)
-- IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPMAI** journal)
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI** journal)
 
 # 🌍 Visitor Map
 
