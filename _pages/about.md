@@ -95,16 +95,23 @@ The 35th Conference on Neural Information Processing Systems. (**NeurIPS 2021**)
 
 + *Approximate Graph Propagation.*  [[Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467243)][[Code](https://github.com/wanghzccls/AGP-Approximate_Graph_Propagation)] <br>
 Hanzhi Wang, **Mingguo He**, Zhewei Wei, Sibo Wang, Ye Yuan, Xiaoyong Du, Ji-Rong Wen.<br>
-In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. (**KDD 2021**) <be>
+In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. (**KDD 2021**) <br>
+
++  *Rethinking Link Prediction for Directed Graphs.*  [[Paper](https://arxiv.org/abs/2502.05724)][[Code](https://github.com/ivam-he/DirLinkBench-SDGAE)] <br>
+**Mingguo He**, Yuhe Guo, Yanping Zheng, Zhewei Wei, Stephan Günnemann, Xiaokui Xiao <br>
+ArXiv. (**Preprint**) <be>
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* National Scholarship for Doctoral Students
+- *2020* Provincial Excellent Graduates
+- *2018* National Scholarship for Undergraduate Students
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2025.06*: Ph.D. in Artificial Intelligence from the Gaoling School of Artificial Intelligence, Renmin University of China, under the supervision of Prof. Zhewei Wei.
+- *2024.10 - 2025.03*: Visiting researcher at the Technical University of Munich, collaborating with Prof. Stephan Günnemann.
+- *2016.09 - 2020.06*: Bachelor of Engineering in Software Engineering from the School of Computer Science, Central South University.
+
 
 # 💼 Services
 I serve(d) as a program committee member/reviewer for:
