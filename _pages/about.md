@@ -14,8 +14,56 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<style>
+  .rucred {
+    display: inline-block;
+    background-color: rgb(174, 11, 42);
+    color: white;
+    font-size: 0.8em;
+    padding: 2px 6px;
+    border-radius: 3px;
+    margin-left: 8px;
+    font-weight: bold;
+    vertical-align: middle;
+  }
+  .badge {
+    font-weight: 600;
+    margin-bottom: 5px;
+  }
+</style>
+
+<style>
+  .logo-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem;
+    margin-top: 2rem; 
+  }
+  .logo-row img {
+    height: 60px;
+    width: auto;
+    /* 
+       border-radius: 6px;
+       box-shadow: 0 0 6px rgba(0,0,0,.15); */
+  }
+</style>
+
+<style>
+  .site-footer {
+    text-align: center;
+    font-size: 0.85em;
+    color: rgb(128, 128, 128);
+    margin: 2rem 0 1rem; 
+  }
+  .site-footer a {
+    color: inherit;
+    text-decoration: underline;
+  }
+</style>
 
 <span class='anchor' id='about-me'></span>
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
