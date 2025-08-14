@@ -65,9 +65,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently a final-year Ph.D. student at the Gaoling School of Artificial Intelligence, [Renmin University of China](https://www.ruc.edu.cn), under the supervision of Prof. [Zhewei Wei](https://weizhewei.com/). As of October 2024, I am also a visiting student at the Technical University of Munich, collaborating with Prof. [Stephan Günnemann](https://www.professoren.tum.de/guennemann-stephan). Prior to this, I earned my B.E. degree in Software Engineering from the School of Computer Science at [Central South University](https://www.csu.edu.cn/) in June 2020.
+I am currently a research fellow at the School of Computing, [National University of Singapore](https://www.nus.edu.sg/), working under the supervision of Prof. [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/). I obtained my Ph.D. degree in June 2025 from the Gaoling School of Artificial Intelligence, [Renmin University of China](https://www.ruc.edu.cn/), under the guidance of Prof. [Zhewei Wei](https://weizhewei.com/). Between October 2024 and May 2025, I was a visiting student at the Technical University of Munich, where I collaborated with Prof. [Stephan Günnemann](https://www.professoren.tum.de/guennemann-stephan). Prior to my Ph.D., I earned a B.E. degree in Software Engineering from the School of Computer Science at [Central South University](https://www.csu.edu.cn/) in June 2020.
 
 
+My research focuses on **Spectral Graph Neural Networks (GNNs)**, particularly leveraging spectral properties to enhance GNN performance and interpretability. I am also exploring **Graph Transformers**, combining attention mechanisms with graph models for more efficient graph-based data processing. Additionally, I am passionate about **AI for Science (AI4Science)**, applying machine learning techniques to accelerate scientific discovery in fields like materials science, biology, and chemistry.
 
 
 # 🔥 News
@@ -106,7 +107,6 @@ In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data M
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💼 Services
----
 I serve(d) as a program committee member/reviewer for:
 - Conference on Neural Information Processing Systems (**NeurIPS** 22/23/24/25)  
 - International Conference on Machine Learning (**ICML** 23/24/25)  
