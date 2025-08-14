@@ -76,19 +76,26 @@ I am currently a final-year Ph.D. student at the Gaoling School of Artificial In
 
 # 📝 Publications 
 
-{% <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
++ *PolyFormer: Scalable Node-wise Filters via Polynomial Graph Transformer.* [[Paper](https://dl.acm.org/doi/10.1145/3637528.3671849)][[Code](https://github.com/air029/PolyFormer)] <br>
+Jiahong Ma, **Mingguo He**, Zhewei Wei. <br>
+In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. (**KDD 2024**) <br>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
++ *Spectral Heterogeneous Graph Convolutions via Positive Noncommutative Polynomials.* [[Paper](https://arxiv.org/abs/2305.19872)][[Code](https://github.com/ivam-he/PSHGCN)] <br>
+**Mingguo He**,Zhewei Wei, Shikun Feng, Zhengjie Huang, Weibin Li, Yu Sun, Dianhai Yu.<br>
+In Proceedings of the ACM Web Conference 2024. (**TheWebConf 2024**, **Oral Presentation**) <br>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
++  *Convolutional Neural Networks on Graphs with Chebyshev Approximation, Revisited.* [[Paper](https://arxiv.org/abs/2202.03580)][[Code](https://github.com/ivam-he/ChebNetII)] <br>
+**Mingguo He**, Zhewei Wei, Ji-Rong Wen.<br>
+In the 36th Conference on Neural Information Processing Systems. (**NeurIPS 2022**, **Oral Presentation**) <br>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div> %}
++  *BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation.*  [[Paper](https://arxiv.org/abs/2106.10994)][[Code](https://github.com/ivam-he/BernNet)] <br>
+**Mingguo He**, Zhewei Wei, Zengfeng Huang, Hongteng Xu.<br>
+The 35th Conference on Neural Information Processing Systems. (**NeurIPS 2021**) <br>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
++ *Approximate Graph Propagation.*  [[Paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467243)][[Code](https://github.com/wanghzccls/AGP-Approximate_Graph_Propagation)] <br>
+Hanzhi Wang, **Mingguo He**, Zhewei Wei, Sibo Wang, Ye Yuan, Xiaoyong Du, Ji-Rong Wen.<br>
+In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. (**KDD 2021**) <be>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
