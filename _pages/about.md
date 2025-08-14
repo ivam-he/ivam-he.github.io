@@ -118,7 +118,7 @@ I serve(d) as a program committee member/reviewer for:
 
 # 🌍 Visitor Map
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=al5-StCZGk-bhNyW49GC_ZBvxtldpLuAOcl3O3hn-sE&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?cl=1838a3&w=400&t=tt&d=al5-StCZGk-bhNyW49GC_ZBvxtldpLuAOcl3O3hn-sE&co=ffffff&cmo=af1616&cmn=1fba1f&ct=000000"></script>
 
 <footer class="site-footer">
   <p>&copy; Aug 2025 Mingguo He. All rights reserved.</p>
