@@ -123,6 +123,7 @@ I serve(d) as a program committee member/reviewer for:
 - Association for the Advancement of Artificial Intelligence Conference (**AAAI** 25/26)  
 - Web Search and Data Mining Conference (**WSDM** 23/24/25)
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI** journal)
+- IEEE Transactions on Knowledge and Data Engineering (**TKDE** journal)
 
 # 🌍 Visitor Map
 
