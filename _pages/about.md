@@ -77,6 +77,14 @@ My research focuses on **Spectral Graph Neural Networks (GNNs)**, particularly l
 
 # 📝 Publications 
 
++  *Rethinking Link Prediction for Directed Graphs.*  [[Paper](https://arxiv.org/abs/2502.05724)][[Code](https://github.com/ivam-he/DirLinkBench-SDGAE)] <br>
+**Mingguo He**, Yuhe Guo, Yanping Zheng, Zhewei Wei, Stephan Günnemann, Xiaokui Xiao <br>
+Accepted by Transactions on Pattern Analysis and Machine Intelligence. (**TPAMI 2026**) <br>
+
++ *Robustness in Text-Attributed Graph Learning: Insights, Trade-offs, and New Defenses.* [[Paper](https://openreview.net/forum?id=CEJl0gN2gj)][[Code](https://github.com/Leirunlin/TGRB)] <br>
+Runlin Lei, Lu Yi, **Mingguo He**, Pengyu Qiu, Zhewei Wei, Yongchao Liu, Chuntao Hong <br>
+In the Fourteenth International Conference on Learning Representations. (**ICLR 2026**) <br>
+
 + *PolyFormer: Scalable Node-wise Filters via Polynomial Graph Transformer.* [[Paper](https://dl.acm.org/doi/10.1145/3637528.3671849)][[Code](https://github.com/air029/PolyFormer)] <br>
 Jiahong Ma, **Mingguo He**, Zhewei Wei. <br>
 In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. (**KDD 2024**) <br>
@@ -97,9 +105,6 @@ The 35th Conference on Neural Information Processing Systems. (**NeurIPS 2021**)
 Hanzhi Wang, **Mingguo He**, Zhewei Wei, Sibo Wang, Ye Yuan, Xiaoyong Du, Ji-Rong Wen.<br>
 In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. (**KDD 2021**) <br>
 
-+  *Rethinking Link Prediction for Directed Graphs.*  [[Paper](https://arxiv.org/abs/2502.05724)][[Code](https://github.com/ivam-he/DirLinkBench-SDGAE)] <br>
-**Mingguo He**, Yuhe Guo, Yanping Zheng, Zhewei Wei, Stephan Günnemann, Xiaokui Xiao <br>
-ArXiv. (**Preprint**) <be>
 
 
 # 🎖 Honors and Awards
