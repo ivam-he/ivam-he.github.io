@@ -90,7 +90,7 @@ Jiahong Ma, **Mingguo He**, Zhewei Wei. <br>
 In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. (**KDD 2024**) <br>
 
 + *Spectral Heterogeneous Graph Convolutions via Positive Noncommutative Polynomials.* [[Paper](https://arxiv.org/abs/2305.19872)][[Code](https://github.com/ivam-he/PSHGCN)] <br>
-**Mingguo He**,Zhewei Wei, Shikun Feng, Zhengjie Huang, Weibin Li, Yu Sun, Dianhai Yu.<br>
+**Mingguo He**, Zhewei Wei, Shikun Feng, Zhengjie Huang, Weibin Li, Yu Sun, Dianhai Yu.<br>
 In Proceedings of the ACM Web Conference 2024. (**TheWebConf 2024**, **Oral 9.4%**) <br>
 
 +  *Convolutional Neural Networks on Graphs with Chebyshev Approximation, Revisited.* [[Paper](https://arxiv.org/abs/2202.03580)][[Code](https://github.com/ivam-he/ChebNetII)] <br>
@@ -112,10 +112,12 @@ In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data M
 - *2020* Provincial Excellent Graduates
 - *2018* National Scholarship for Undergraduate Students
 
+  
+
 # 📖 Educations
-- *2020.09 - 2025.06*: Ph.D. in Artificial Intelligence from the Gaoling School of Artificial Intelligence, Renmin University of China, under the supervision of Prof. Zhewei Wei.
-- *2024.10 - 2025.03*: Visiting researcher at the Technical University of Munich, collaborating with Prof. Stephan Günnemann.
-- *2016.09 - 2020.06*: Bachelor of Engineering in Software Engineering from the School of Computer Science, Central South University.
+- *2020.09 - 2025.06*: Ph.D. in Artificial Intelligence from the Gaoling School of Artificial Intelligence, Renmin University of China.
+- *2024.10 - 2025.03*: Visiting Researcher at the School of Computation, Information and Technology, Technical University of Munich.
+- *2016.09 - 2020.06*: B.Eng. in Software Engineering, School of Computer Science, Central South University.
 
 
 # 💼 Services
