@@ -141,13 +141,14 @@ I have served as an Area Chair, program committee member, and reviewer for the f
 - IEEE Transactions on Knowledge and Data Engineering (**TKDE**)
 
 
+
 # 🌍 Visitor Map
 
 <div style="text-align: center; margin: 20px 0;">
   <script
     type="text/javascript"
     id="mapmyvisitors"
-    src="https://mapmyvisitors.com/map.js?d=l_GuPPBrcBRMxdUKgkwlF5MMs0_c59GgaHtLqRHCMc4&cl=ffffff&w=a">
+    src="https://mapmyvisitors.com/map.js?d=l_GuPPBrcBRMxdUKgkwlF5MMs0_c59GgaHtLqRHCMc4&cl=ffffff&w=400">
   </script>
 </div>
 
@@ -159,4 +160,5 @@ I have served as an Area Chair, program committee member, and reviewer for the f
        target="_blank" rel="noopener">Yi Ren</a>.
   </p>
 </footer>
+
 
