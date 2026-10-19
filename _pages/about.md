@@ -65,13 +65,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently a research fellow at the School of Computing, [National University of Singapore](https://www.nus.edu.sg/), working under the supervision of Prof. [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/). I obtained my Ph.D. degree in June 2025 from the Gaoling School of Artificial Intelligence, [Renmin University of China](https://www.ruc.edu.cn/), under the guidance of Prof. [Zhewei Wei](https://weizhewei.com/). Between October 2024 and May 2025, I was a visiting student at the Technical University of Munich, where I collaborated with Prof. [Stephan Günnemann](https://www.professoren.tum.de/guennemann-stephan). Prior to my Ph.D., I earned a B.E. degree in Software Engineering from the School of Computer Science at [Central South University](https://www.csu.edu.cn/) in June 2020.
+I am currently a Research Fellow at the School of Computing, [National University of Singapore](https://www.nus.edu.sg/), working with Prof. [Yatao Bian](https://yataobian.com/). Previously, I worked with Prof. [Xiaokui Xiao](https://www.comp.nus.edu.sg/~xiaoxk/) at NUS. I obtained my Ph.D. degree in June 2025 from the Gaoling School of Artificial Intelligence, [Renmin University of China](https://www.ruc.edu.cn/), under the supervision of Prof. [Zhewei Wei](https://weizhewei.com/). Between October 2024 and May 2025, I was a visiting student at the Technical University of Munich, where I collaborated with Prof. [Stephan Günnemann](https://www.professoren.tum.de/guennemann-stephan). Prior to my Ph.D., I earned a B.E. degree in Software Engineering from [Central South University](https://www.csu.edu.cn/) in June 2020.
 
-
-My research focuses on **Spectral Graph Neural Networks (GNNs)**, particularly leveraging spectral properties to enhance GNN performance and interpretability. I am also exploring **Graph Transformers**, combining attention mechanisms with graph models for more efficient graph-based data processing. Additionally, I am passionate about **AI for Science (AI4Science)**, applying machine learning techniques to accelerate scientific discovery in fields like materials science, biology, and chemistry.
+My research interests lie at the intersection of **Graph Machine Learning**, **Generative Modeling**, and **AI for Science (AI4Science)**, with a current focus on **AI for Drug Discovery (AI4Drug)**. My previous research has primarily focused on **Spectral Graph Neural Networks (GNNs)** and **Graph Transformers**, leveraging spectral and structural properties to develop expressive and efficient graph learning methods. More recently, I have been exploring generative approaches, including diffusion models and energy-based learning, for molecular representation, generation, and optimization, aiming to accelerate drug discovery and molecular design.
 
 
 # 🔥 News
+- *2026.04*: Our paper, "Rethinking Link Prediction for Directed Graphs," was accepted by **IEEE TPAMI 2026**.
+- *2026.01*: Our paper, "Robustness in Text-Attributed Graph Learning: Insights, Trade-offs, and New Defenses," was accepted at **ICLR 2026**.
 - *2025.05*: We are excited to introduce a new benchmark for Directed Graph Link Prediction, [DirLinkBench](https://arxiv.org/abs/2502.05724).
 - *2024.01*: Our paper was accepted at TheWebConf 2024 and selected for oral presentation.
 
@@ -120,27 +121,42 @@ In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data M
 - *2016.09 - 2020.06*: B.Eng. in Software Engineering, School of Computer Science, Central South University.
 
 
-# 💼 Services
-I serve(d) as a program committee member/reviewer for:
-- Conference on Neural Information Processing Systems (**NeurIPS** 22/23/24/25)  
-- International Conference on Machine Learning (**ICML** 23/24/25)  
-- International Conference on Learning Representations (**ICLR** 24/25)  
-- International World Wide Web Conference (**TheWebConf** 24/25)  
-- Learning on Graphs Conference (**LoG** 24/25)  
-- Association for the Advancement of Artificial Intelligence Conference (**AAAI** 25/26)  
-- Web Search and Data Mining Conference (**WSDM** 23/24/25)
-- IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI** journal)
-- IEEE Transactions on Knowledge and Data Engineering (**TKDE** journal)
+# 💼 Academic Services
+I have served as an Area Chair, program committee member, and reviewer for the following conferences and journals:
+
+**Area Chair**
+- International Conference on Learning Representations (**ICLR 2027**)
+
+**Program Committee Member / Reviewer**
+- Conference on Neural Information Processing Systems (**NeurIPS 2022–2025**)
+- International Conference on Machine Learning (**ICML 2023–2026**)
+- International Conference on Learning Representations (**ICLR 2024–2026**)
+- ACM Web Conference (**TheWebConf 2024–2026**)
+- Learning on Graphs Conference (**LoG 2024–2026**)
+- AAAI Conference on Artificial Intelligence (**AAAI 2025–2026**)
+- ACM International Conference on Web Search and Data Mining (**WSDM 2023–2025**)
+
+**Journal Reviewer**
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
+- IEEE Transactions on Knowledge and Data Engineering (**TKDE**)
+
 
 # 🌍 Visitor Map
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?cl=1838a3&w=400&t=tt&d=al5-StCZGk-bhNyW49GC_ZBvxtldpLuAOcl3O3hn-sE&co=ffffff&cmo=af1616&cmn=1fba1f&ct=000000"></script>
+<div style="text-align: center; margin: 20px 0;">
+  <script
+    type="text/javascript"
+    id="mapmyvisitors"
+    src="https://mapmyvisitors.com/map.js?d=l_GuPPBrcBRMxdUKgkwlF5MMs0_c59GgaHtLqRHCMc4&cl=ffffff&w=a">
+  </script>
+</div>
 
 <footer class="site-footer">
-  <p>&copy; Aug 2025 Mingguo He. All rights reserved.</p>
+  <p>&copy; 2025–2026 Mingguo He. All rights reserved.</p>
   <p>
     Template adapted from
     <a href="https://github.com/RayeRen/acad-homepage.github.io"
        target="_blank" rel="noopener">Yi Ren</a>.
   </p>
 </footer>
+
